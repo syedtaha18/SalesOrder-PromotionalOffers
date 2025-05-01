@@ -1,0 +1,15 @@
+Track 1: Sales Order with “Promotional Offers”
+Build a lightweight sales order application using SAP Build Apps that showcases the power of no-code/low-code platforms in enhancing sales workflows.  The application must address the following key functionalities:  
+
+Streamlined Order Creation:
+-  Quickly select customers, products and quantities with a user-friendly interface.
+- The Customer data entity must include fields like Customer ID, Name,  Country,  Contact No., Email etc
+- The Product data entity must include fields like Product ID, Name, Category, Price etc
+Integrated Promotions Display:
+- The Promotions data entity must include fields like Promotion ID, Product ID, Name, Price etc
+- The local database dynamically fetches and displays relevant promotions for the selected products.
+Seamless Invoice Generation
+- Finalize orders and generate invoices seamlessly, ensuring a smooth checkout process.
+- The invoice must contain information regarding the customer, product and promotion availed.
+
+Steps to import into SAP Build Apps:
